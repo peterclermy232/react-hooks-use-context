@@ -7,5 +7,5 @@ import "./index.css";
 ReactDOM.render(
   <ThemeProvider>
    <App />
-  </ThemeProvider>, 
+  </ThemeProvider>  , 
 document.getElementById("root"));
